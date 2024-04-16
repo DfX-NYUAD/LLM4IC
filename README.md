@@ -1,2 +1,5 @@
 # LLM4IC
 LLMs and the Future of Chip Design: Unveiling Security Risks and Building Trust
+
+### Abstract
+Chip design is about to be revolutionized by the integration of large language, multimodal, and circuit models (LLMs, LMMs, and LCMs; collectively LxMs). We argue that, while exploring this exciting frontier with tremendous potential, the community must also carefully consider the related security risks and the need for building trust into using LxMs for chip design. First, we review the recent surge of using LxMs for chip design in general. We cover state-of-the-art works for automation of hardware description language (HDL) code generation and for scripting and guidance of essential but cumbersome tasks for electronic design automation (EDA) tools, e.g., design-space exploration, tuning, or designer training. Second, in the main part of the paper, we focus on critical issues for security and trustworthiness of LxM-powered chip design from both the attack and defense perspective. By acknowledging and outlining both the risks and benefits, this paper aims to pave the way for secure and trustworthy adoption of LxMs in the future of chip design.
