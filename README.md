@@ -26,17 +26,19 @@ We summarize the resources on LLMs for chip design, focusing on various applicat
 
 
 ## [Survey Papers](#content)
-- **LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation.** [[paper]](https://arxiv.org/pdf/2401.12224.pdf)
+- **LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation.** arXiv:2401.12224, 2023. [[paper]](https://arxiv.org/pdf/2401.12224.pdf)
 
     *Ruizhe Zhong, Xingbo Du, Shixiong Kai, Zhentao Tang, Siyuan Xu, Hui-Ling Zhen, Jianye Hao, Qiang Xu, Mingxuan Yuan, Junchi Yan.* 
 
-- **Evolutionary Large Language Models for Hardware Security: A Comparative Survey.** [[paper]](https://arxiv.org/pdf/2404.16651)
-
-    *Mohammad Akyash, Hadi Mardani Kamali.*
-- **LLM for SoC Security: A Paradigm Shift.** [[paper]](https://arxiv.org/pdf/2310.06046)
+- **LLM for SoC Security: A Paradigm Shift.** arXiv:2310.06046, 2023. [[paper]](https://arxiv.org/pdf/2310.06046)
 
     *Dipayan Saha, Shams Tarek, Katayoon Yahyaei, Sujan Kumar Saha, Jingbo Zhou, Mark Tehranipoor, Farimah Farahmandi.*
-- **The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models.** [[paper]](https://arxiv.org/pdf/2403.07257.pdf)
+  
+- **Evolutionary Large Language Models for Hardware Security: A Comparative Survey.** arXiv:2404.16651, 2024. [[paper]](https://arxiv.org/pdf/2404.16651)
+
+    *Mohammad Akyash, Hadi Mardani Kamali.*
+
+- **The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models.** arXiv:2403.07257, 2024. [[paper]](https://arxiv.org/pdf/2403.07257.pdf)
 
     *Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, Ru Huang, Yu Huang, Sadaf Khan, Min Li, Xingquan Li, Yu Li, Yun Liang, Jinwei Liu, Yi Liu, Yibo Lin, Guojie Luo, Zhengyuan Shi, Guangyu Sun, Dimitrios Tsaras, Runsheng Wang, Ziyi Wang, Xinming Wei, Zhiyao Xie, Qiang Xu, Chenhao Xue, Junchi Yan, Jun Yang, Bei Yu, Mingxuan Yuan, Evangeline F.Y. Young, Xuan Zeng, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Hui-Ling Zhen, Ziyang Zheng, Binwu Zhu, Keren Zhu, Sunan Zou.*
 
